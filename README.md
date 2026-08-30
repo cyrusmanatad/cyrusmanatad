@@ -2,9 +2,9 @@
 
 ## 👩🏻‍💻 About<br/>
 
-I’m a passionate Web Developer with over 7 years of experience building and supporting web applications that make a real difference for users and businesses.
+I’m a passionate Web Developer with over 8 years of experience building and supporting web applications that make a real difference for users and businesses.
 
-I love creating clean, reliable, and scalable web solutions using PHP (CodeIgniter, Laravel), JavaScript, MySQL/MariaDB, and modern front-end tools like Bootstrap, Tailwind CSS, and ReactJS. Over the years, I’ve worked on projects that involve everything from custom CMS builds and API integrations (REST & SOAP) to Single Sign-On (SSO) setups with Azure Entra ID and LDAP.
+I love creating clean, reliable, and scalable web solutions using PHP (CodeIgniter, Laravel), Node JS, JavaScript, MySQL/MariaDB, and modern front-end tools like Bootstrap, Tailwind CSS, and ReactJS. Over the years, I’ve worked on projects that involve everything from custom CMS builds and API integrations (REST & SOAP) to Single Sign-On (SSO) setups with Azure Entra ID and LDAP.
 
 I’m also big on process efficiency, like using Docker, AWS, and GitLab CI/CD to ensure smoother deployments and consistent environments. I enjoy solving technical challenges, mentoring teammates, and improving systems so everything runs faster and smarter.
 
@@ -12,14 +12,14 @@ At the end of the day, I’m driven by curiosity and the desire to keep learning
 
 🛠️ Tech highlights:
 - PHP (Laravel, CodeIgniter), JS, HTML/CSS
+- NodeJS (NestJS, Express.js)
+- Redis, DynamoDB, PostgreSQL, MySQL, MariaDB, Microsoft SQL Server
 - CMS development and API integrations
 - Git, Docker, GitLab CI/CD
-- AWS, Plesk, Linux/Windows server wrangling
+- AWS, Plesk, Linux/Windows Servers
 - Performance tuning with PageSpeed, GTMetrix, Pingdom
 
-☕ I love black coffee and I hate **spaghetti**. I prefer **KISS** and making my code **DRY**, and my commit messages... usually readable "Apply Fix and Update". XD
-
-# 💻 Tech Stack - LAMP
+# 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ### Client Side (Front End)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
